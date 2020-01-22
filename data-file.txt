@@ -1,3 +1,4 @@
-another demo text file. 
 
 This one will have a specific filename. 
+
+Adding some text and removing some lines to demo how this looks with version control
